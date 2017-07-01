@@ -1,0 +1,7 @@
+name: ${project.name}
+main: com.ng.ibalix.test
+version: ${project.version}
+commands:
+   hello:
+      description: Hello to the player
+      usage: /<command>
